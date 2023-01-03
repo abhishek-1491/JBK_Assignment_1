@@ -1,0 +1,71 @@
+
+Programs List 1
+
+1) Write a Program To print 1 to 25 nos.
+2) Write a Program To print 25 to 1 nos.
+3) Write a Program To print 1 to 100 Odd nos.
+4) Write a Program To print 1 to 100 even nos.
+5) Write a Program To print sum of 1 to 50 Odd nos.
+6) Write a Program To print sum of 1 to 50 EVEN nos.
+7) Write a Program To print -45 to +45 nos.  // negative no and positive no
+8) Write a Program To print 50 to 100 nos.
+9) Write a Program To print sum of odd and even no.
+10) Write a Program To print even and odd No
+11) Write a Program To  print 1 to 100 no.
+12) Write a Program To print 100 to 1 no.
+13) Write a Program To print 30 to 50 no.
+14) Write a Program To print count of even No 1 to 25 no.
+15) Write a Program To print count of odd No 1 to 25 nos
+
+
+Generate the Series for loops 
+System.out.print(i); 
+
+1) Generate the Series... 2 4 6 8 10 12 14 16 18 20.
+2) Generate the Series... 9 18 27 36 45 54 63 72 81 90. 
+3) Generate the Series... 1 -2 3 -4 5 -6 7 -8 9 -10. 
+4) Generate the Series... 5 10 15 20 25 30 35 40 45 50.
+5) Generate the Series... 1 10 100 1000. 
+6) Generate the Series... 1  3  6  10  15  21  28  36  45.   
+7) Generate the Series... 8 16 24 32 40 48 56 64 72 80.
+8) Generate the Series... 0 1 1 2 3 5 8 13 21.
+9) Generate the series... 1 4 9 16 25 36 49 64 81 100.
+10) Generate the series... 3 6 9 12 15 18 21 24 27 30.
+11) Generate the Series... 7 14 21 28 35 42 49 56 63 70. 
+12) Generate the Series... 4 8 12 16 20 24 28 32 36 40. 
+13) Generate the Series... 10 20 30 40 50 60 70 80 90 100. 
+14) Generate the Series... 1 2 3 4 5 4 3 2 1. 
+15) Generate the Series... 6 12 18 24 30 36 42 48 54 60.
+
+
+
+Programs List 2
+
+
+1. Write a Program to accept a number and find it is Even No.
+2. Write a Program to accept a number and find it is odd No.
+3. Write a Program to accept a number and find it is even or odd
+4. Write a Program to accept a number and find it Zero, Positive or Negative.
+5. Write a Program to accept two number and find smallest no.
+6. Write a Program to accept two number and find find largest no.
+7. Write a Program to accept a two number and find sum of Two even No.
+8. Write a Program to accept a two number and find sum of Two odd No.
+9. Write a Program to accept a two number and find sum of even or odd
+10. Write a Program to accept a day of week(int) and display the weekday
+ (e.g – day=4  Thursday) (use switch case) 
+11.  Write a Program to create Menu driven program for Arithmetic Operation
+
+
+
+Programs List 3
+
+
+// Simple Programs
+
+1. Write a Program to find the sum of two Numbers.
+2. Write a Program to accept two integers and find its addition.
+3. Write a Program to accept two integers and find its subtraction.
+4. Write a Program to accept two integers and find its multiplication.
+5. Write a Program to accept two integers and find its division.
+6. Write a Program to accept two integers and find its addition, 
+subtraction,multiplication and division.
